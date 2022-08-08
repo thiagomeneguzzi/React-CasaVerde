@@ -1,0 +1,17 @@
+.card {
+    font-family: 'Elsie Swash Caps';
+    width: 100%;
+    max-width: 300px;
+    padding: 12px;
+    background-color: aqua;
+    display: flex;
+
+    .image {
+        width: 100%;
+        max-width: 150px;
+
+        img {
+            width: 100%;
+        }
+    }
+}

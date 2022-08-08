@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-list {
+    list-style: none;
+    display: flex;
+    gap: 12px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
